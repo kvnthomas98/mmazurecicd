@@ -1,4 +1,4 @@
 {
   "minMuleVersion": "4.3.0",
-  "secureProperties": ["test",  "anypoint.platform.client_id"]
+  "secureProperties": ["test", "anypoint.platform.client_id"]
 }
